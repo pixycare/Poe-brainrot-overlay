@@ -26,13 +26,13 @@ This application creates overlay windows to display videos in a small portion of
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/pixycare/Poe-brainrot-overlay
     ```
 
 2. **Navigate to the project directory**:
 
     ```bash
-    cd your-repo-name
+    cd repo-directory
     ```
 
 3. **Install required packages**:
